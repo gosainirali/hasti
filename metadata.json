@@ -1,0 +1,7 @@
+{
+  "name": "BeaconPost - Experience to Social Storyteller",
+  "description": "Convert workshops, hackathons, internships, college events, certifications, and achievements into authentic, high-impact social media posts across LinkedIn, X/Twitter, Instagram, Threads, and portfolios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
